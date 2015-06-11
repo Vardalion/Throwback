@@ -13,7 +13,13 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
+*.exe
+*.dll
+*.stackdump
+*.exe.*
+Release
+.vs
+ipch
 # =========================
 # Operating System Files
 # =========================
